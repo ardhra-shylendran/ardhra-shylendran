@@ -3,7 +3,7 @@
 I am a computational materials scientist with a Ph.D. in Computational Chemistry from **Indian Institute of Science Education and Research Pune**. With an international experience as a **Fulbright-Nehru Doctoral Research Fellow** at **Penn State University**. My research focuses on leveraging **molecular simulations (DFT, MD)** and **machine learning techniques** to design advanced materials for energy applications.
 
 ### 🧪 **Research Interests**
-- **Battery materials**: Ion solvation, diffusion, interfacial chemistry
+- **Electrolyte solutions**: Ion solvation, diffusion, interfacial chemistry
 - **Electrode/electrolyte interactions**: MD & multi-scale modeling
 - **Machine learning for materials design**: Data-driven simulations
 - **Sustainable nanomaterials**: Biodegradable polymers, bio-inspired materials
