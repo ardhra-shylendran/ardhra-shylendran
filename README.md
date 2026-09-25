@@ -1,15 +1,15 @@
 ## Hi there 👋
 
-I am a computational materials scientist with a Ph.D. in Computational Chemistry from **Indian Institute of Science Education and Research Pune**. Currently working as a Research Associate at IIT Kanpur. With an international experience as a **Fulbright-Nehru Doctoral Research Fellow** at **Penn State University**. My research focuses on leveraging **molecular simulations (DFT, MD, ReaxFF)** and **machine learning techniques** to design advanced materials for energy applications.
+I am a computational materials scientist with a Ph.D. in Computational Chemistry from **Indian Institute of Science Education and Research Pune**. With an international experience as a **Fulbright-Nehru Doctoral Research Fellow** at **Penn State University**. My research focuses on leveraging **molecular simulations (DFT, MD)** and **machine learning techniques** to design advanced materials for energy applications.
 
 ### 🧪 **Research Interests**
 - **Battery materials**: Ion solvation, diffusion, interfacial chemistry
-- **Electrode/electrolyte interactions**: ReaxFF MD & multi-scale modeling
+- **Electrode/electrolyte interactions**: MD & multi-scale modeling
 - **Machine learning for materials design**: Data-driven simulations
 - **Sustainable nanomaterials**: Biodegradable polymers, bio-inspired materials
 
 ### 🛠 **Technical Skills**
-✔ **Computational Chemistry**: DFT (VASP, Quantum ESPRESSO), MD (GROMACS, LAMMPS, AMS), ReaxFF (AMS, Standalone code), Force field development 
+✔ **Computational Chemistry**: DFT (VASP, Quantum ESPRESSO), MD (GROMACS, LAMMPS, AMS),AMS , Force field development 
 ✔ **Programming & Data Analysis**: Python, Bash, MATLAB, Mathematica
 ✔ **Machine Learning (beginner)**: ML-accelerated force fields  
 
